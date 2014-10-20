@@ -1,0 +1,39 @@
+.share-base(@bg-image, @r, @g, @b) {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  .border-radius(50%);
+  border: 2px solid #fff;  
+  background-color: rgba(255, 255, 255, 0.0);
+  background-image: url(@bg-image);
+  background-size: 20px 18px;
+  background-repeat: no-repeat;
+  background-position: center;
+  &:hover, &:focus, &:active, &.active {
+    background-image: url(@bg-image);
+    background-color: rgba(@r, @g, @b, 0.9);
+  }
+  @media(max-width:@screen-xs-max) {
+    margin-bottom: 30px;
+    width: 40px;
+    height: 40px;
+  }
+  padding: 0 !important;
+}
+.sharebuttons {
+  & > div {
+    display: table;
+  }
+  .facebook-share {
+    .share-base('@{img}/soc/soc_facebook.png', 59, 89, 152);
+  }
+  .twitter-share {
+    .share-base('@{img}/soc/soc_twitter.png', 64, 153, 255);
+  }
+  .linkedin-share {
+    .share-base('@{img}/soc/soc_linkedin.png', 0, 123, 182);
+  }
+  .googleplus-share {
+    .share-base('@{img}/soc/soc_googleplus.png', 221,75,57);
+  }
+}

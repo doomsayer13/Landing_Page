@@ -1,0 +1,151 @@
+{
+    "common": {
+        "button": {
+            "signup": "SIGN UP NOW",
+            "share": "SHARE US"
+        }
+    },
+
+    "header": { 
+        "title": "VOLUNTEER YOUR <strong> TECH SKILLS</strong>",
+        "emailtext": "Your Email Address",
+        "submit": "GET EARLY ACCESS"
+    },
+    "pitch": {
+        "title": "PICK A <strong>CAUSE. </strong>PLEDGE YOUR <strong> TECH SKILLS. <span class='hidden-xs'><br></span></strong>MAKE A <strong> DIFFERENCE. </strong>",
+        "description": "Hashtagcharity allows IT professionals to leverage and volunteer their tech skills to help nonprofits reduce their IT costs. By reducing IT costs, nonprofits can use those savings on their actual missions making the world a better place.  "
+    },
+    "mainthings": {
+        "title": "WHAT <strong>WE DO</strong>",
+        "description": "",
+        "thing1": {
+            "title": "#GOODCAUSE",
+            "description": "We guarantee that all IT projects on our platform are for a good cause. You as a volunteer can be sure that the organizations are legitimate and the projects will have a deep positive impact somewhere in the world."
+        },
+        "thing2": {
+            "title": "#SKILLBASED",
+            "description": "We SmartMatch projects to volunteers based on their specific areas of interest and skill sets."
+        },
+        "thing3": {
+            "title": "#EXECUTION",
+            "description": "What makes us special is our level of strategic involvement in the execution phase. We do not just match people and projects. To make the volunteering experience smoother, more efficient and enjoyable, we are integrating the best 3rd party apps into our platform."
+        }
+    },
+    "counter": {
+        "title": "Are you someone who <strong>cares</strong>?",
+        "text": "<span id='counterNumber'><strong>1,231,233</strong></span> professionals already care about others. Are you the next?"
+    },
+    "steps": {
+        "title": "HOW DOES IT <strong>WORK?</strong>",
+        "description": "Whether you are a small team or a large multinational charity organization, you can list your IT needs on hashtagcharity for free.",
+        "step1": {
+            "title": "#OPEN",
+            "description": "You submit your project along with the IT skills needed. If you do not know what skills your IT project needs, we have dedicated people that will assist you to figure them out."
+        },
+        "step2": {
+            "title": "#MATCH",
+            "description": "Your project goes live on our platform.  We then match the IT project with the proper skilled volunteers."
+        },
+        "step3": {
+            "title": "#SUPPORT",
+            "description": "Once volunteers commit to your project, we help them with everything they need to make it a success. Because sometimes volunteers will come and go, we will keep all of the information on our platform, every project has its own space at Hashtagcharity where volunteers can discuss, support, and give tips to each other."
+        }
+    },
+    "smartmatch": {
+        "title": "<strong>#</strong>SMART<strong>MATCH</strong>",
+        "description": "We have our own algorithm to match the right people to the right projects. We take into consideration what causes the volunteers care most about, what IT skills they posses, and connect them to projects in their area of interest that need their specific skills."
+    },
+    "partners": {
+        "title": "WE ARE <strong>NOT ALONE</strong><br>WE ALREADY HAVE <strong>GREAT PARTNERS</strong><br>AND LOOKING FOR MORE",
+        "partner1": {
+            "name": "ACTION AGAINST HUNGER",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget dolor ex. Nam arcu enim, gravida id accumsan feugiat, rutrum pulvinar nisi."
+        },
+        "partner2": {
+            "name": "ACTION AGAINST HUNGER",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget dolor ex. Nam arcu enim, gravida id accumsan feugiat, rutrum pulvinar nisi."
+        },
+        "partner3": {
+            "name": "ACTION AGAINST HUNGER",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget dolor ex. Nam arcu enim, gravida id accumsan feugiat, rutrum pulvinar nisi."
+        },
+        "partner4": {
+            "name": "ACTION AGAINST HUNGER",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget dolor ex. Nam arcu enim, gravida id accumsan feugiat, rutrum pulvinar nisi."
+        }
+    },
+    "team": {
+        "title": "THE ENTHUSIASTIC <strong>TEAM</strong><br>BEHIND <strong>#CHARITY</strong>",
+        "member1": {
+            "img": "img/jozsef_czapovics.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Jozsef Czapovics",
+            "title": "Co-founder and CEO"
+        },
+        "member2": {
+            "img": "img/zsuzsa_kohanecz.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Zsuzsa Kohanecz",
+            "title": "Co-Founder and Community"
+        },
+        "member3": {
+            "img": "img/peter_gonczi.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Peter Gonczi",
+            "title": "Co-Founder and CTO"
+        },
+        "member4": {
+            "img": "img/walter_rivera.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Walter Rivera",
+            "title": "Partnerships Contributor"
+        },
+        "member5": {
+            "img": "img/balazs_mate.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Balazs Mate",
+            "title": "Engineering Contributor"
+        },
+        "member6": {
+            "img": "img/imre_fazekas.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Imre Fazekas",
+            "title": "Engineering Contributor"
+        },
+        "member7": {
+            "img": "img/istvan_kiesz.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Istvan Kiesz",
+            "title": "Engineering Contributor"
+        },
+        "member8": {
+            "img": "img/norbert_kovacs.jpg",
+            "facebook": "#",
+            "twitter": "#",
+            "name": "Norbert Kovacs",
+            "title": "Engineering Contributor"
+        }
+    },
+    "contacts": {
+        "title": "GET IN TOUCH <span class='visible-xs'><br></span><strong>WITH US</strong>",
+        "description": "We would love to know what you think<br>feel free to contact us.",
+        "twitter": "https://twitter.com/hashtagcharity",
+        "linkedin": "https://www.linkedin.com/company/hashtagcharity-org",
+        "facebook": "https://facebook.com/hashtagcharity",
+        "mailto": {
+            "link": "mailto:info@hashtagcharity.org",
+            "label": "INFO@HASHTAGCHARITY.ORG"
+        }
+    },
+    "footer": {
+        "text": "© 2014 #charity. All Rights Reserverd"
+    }
+    
+}

@@ -1,0 +1,60 @@
+.contacts-4 {
+    position: relative;
+    text-align: center;
+    
+    border: 0 !important;
+
+    background: #34495e url('@{img}/map.jpg') 50% 50% no-repeat;
+    .background-size(cover);
+
+    h2 {
+        color: #fff;
+        strong {
+            color: #fff;
+        }
+    }
+    p {
+        color: #fff;
+    }
+    a {
+        .a-color(#fff);
+    }
+    .social-btns {
+        white-space: nowrap;
+        > * {
+            display: inline-block;
+            margin-left: 35px;
+            font-size: 30px;
+            width: 30px;
+            height: 38px;
+            overflow: hidden;
+            text-align: center;
+            color: rgba(65, 38, 64, 1);
+            &:first-child {
+                margin-left: 0;
+            }
+            > * {
+                display: block;
+                position: relative;
+                .transition(0.25s top);
+                &:first-child {
+                    color: #fff;
+                }
+            }
+            &:hover > * {
+                top: -100%;
+            }
+        }
+    }
+    .links {
+        font-size: 16px;
+        font-family: @Montserrat;
+        font-weight: 700;
+        word-break: break-all;
+        a {
+            padding-bottom: 1px;
+            .a-color(#fff);
+            border-bottom: 1px solid;
+        }
+    }
+}
